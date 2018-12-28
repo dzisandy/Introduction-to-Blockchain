@@ -28,14 +28,11 @@ This course provides an overview of modern blockchain technology and its' practi
 
 
 ## Instructors
-* **Mikhail Belyayev** - *Research Scientist* - [Link](https://faculty.skoltech.ru/people/mikhailbelyaev)
-* **Maxim Panov** - *Research Scientist* - [Link](https://faculty.skoltech.ru/people/maximpanov)
+* **Alexey Frolov** - *Assistant Professor* - [Link](https://faculty.skoltech.ru/people/alexeyfrolov)
+* **Yuri Yanovich** - *Research Scientist* - [Link](https://www.hse.ru/org/persons/134005657)
 
 
-## About me and my project team 
-* **Dzis Andrei** - *MSc 1st year student (Data Science)* - [GitHub](https://github.com/dzisandy)
-* **Balitskiy Gleb** - *MSc 1st year student (Data Science)* - [GitHub](https://github.com/Balitskiy-Gleb)
-* **Kozyrskiy Nikolay** - *MSc 1st year student (Data Science)* - [GitHub](https://github.com/NikolayKozyrskiy)
+
 
 
 
