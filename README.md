@@ -1,5 +1,5 @@
 # Introduction to Blockchain 2018
-Skoltech Cource
+Skoltech Course
 MA03111 (Term 2, 2018-2019)
 
 ## About
